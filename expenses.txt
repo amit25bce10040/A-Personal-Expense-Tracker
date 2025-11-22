@@ -1,0 +1,3 @@
+Date, Amount, Category, Description
+2025-11-22,355,Food,25+70+40+50+160+10
+2025-11-21,135,Food,10+20+30+70+5
